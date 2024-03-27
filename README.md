@@ -44,7 +44,7 @@ Assurez-vous d'avoir PHP et un serveur MySQL installés sur votre machine.
 Installation :
 
 Clonez ce dépôt sur votre machine locale.
-git clone https://github.com/votreutilisateur/votrerepo.git
+git clone git@github.com:dylansolon/E-commerce-JS-PHP-Natif.git
 
 Importez la base de données fournie dans votre serveur MySQL.
 
