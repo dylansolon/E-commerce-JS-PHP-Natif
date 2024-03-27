@@ -6,24 +6,32 @@ Bienvenue dans le projet E-commerce Full Stack, développé en JavaScript, PHP n
 
 Aperçu du projet:
 
+
 Ce projet vise à fournir une solution complète pour la création, la gestion et l'exploitation d'une boutique en ligne.
 
 
 Fonctionnalités principales :
 
+
 Authentification utilisateur : Permet aux utilisateurs de s'inscrire, de se connecter.
+
 Gestion des produits : Ajouter, modifier et supprimer des produits avec facilité via le dashboard.
+
 Panier d'achat : Les utilisateurs peuvent ajouter des articles à leur panier et passer commande en toute simplicité.
+
 Paiement sécurisé : Intégration d'un processus de paiement fictif pour les transactions en ligne (les achats finissent dans la db mySQL).
+
 Tableau de bord administrateur : Accès réservé aux administrateurs pour gérer les commandes, les utilisateurs et les produits.
 
 
 Technologies utilisées :
 
+
 Ce projet utilise des langages de programmation natifs tels que JavaScript et PHP, sans recourir à des frameworks externes, et MySQL pour la db. Bien que cela diffère des approches plus courantes qui utilisent des frameworks modernes, cela offre une perspective unique sur le développement web sans dépendre de bibliothèques tierces.
 
 
 Objectifs :
+
 
 Simplicité et légèreté : En optant pour des langages natifs, le projet vise à offrir une solution simple et légère, évitant les surcharges potentielles introduites par les frameworks.
 
