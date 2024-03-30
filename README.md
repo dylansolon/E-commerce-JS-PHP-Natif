@@ -44,10 +44,13 @@ Assurez-vous d'avoir PHP et un serveur MySQL installés sur votre machine.
 
 ## Identifiants pour tester le site
 
-- **Utilisateur courant** :
+**Utilisateur courant** :
+ 
 - Adresse e-mail : a@a.com
 - Mot de passe : password
-- **Administrateur** (accès au tableau de bord) :
+  
+**Administrateur** (accès au tableau de bord) :
+  
 - Adresse e-mail : admin@admin.com
 - Mot de passe : password
   
