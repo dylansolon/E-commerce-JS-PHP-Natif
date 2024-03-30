@@ -36,12 +36,11 @@ Assurez-vous d'avoir PHP et un serveur MySQL installés sur votre machine.
 
 1. Clonez ce dépôt sur votre machine locale.
    
-git clone git@github.com:dylansolon/E-commerce-JS-PHP-Natif.git
+2. git clone git@github.com:dylansolon/E-commerce-JS-PHP-Natif.git
 
+3. Importez la base de données fournie dans votre serveur MySQL.
 
-2. Importez la base de données fournie dans votre serveur MySQL.
-
-3. Lancez votre serveur.
+4. Lancez votre serveur.
 
 ## Identifiants pour tester le site
 
