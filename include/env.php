@@ -1,6 +1,6 @@
 <?php
 define('SERVER', 'localhost');
-define('DATABASE', 'ProjetFullStackv2');
+define('DATABASE', 'fastburger');
 define('USER', 'root');
 define('PASSWORD', '');
 

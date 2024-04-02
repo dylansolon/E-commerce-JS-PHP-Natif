@@ -15,19 +15,21 @@
 
 <body>
     <?php
-if (!isset($_SESSION['panier'])) {
-    $_SESSION['panier'] = [];
-}
-if (!isset($_SESSION['isLog'])) {
-    $_SESSION['isLog'] = false;
-}
-if (!isset($_SESSION['isAdmin'])) {
-    $_SESSION['isAdmin'] = false;
-}
-?>
+    if (!isset($_SESSION['panier'])) {
+        $_SESSION['panier'] = [];
+    }
+    if (!isset($_SESSION['isLog'])) {
+        $_SESSION['isLog'] = false;
+    }
+    if (!isset($_SESSION['isAdmin'])) {
+        $_SESSION['isAdmin'] = false;
+    }
+    ?>
     <?php
     require 'include/header.php';
     ?>
+
+
 
     <script>
         let addPanierButton = document.querySelector('.addPanierButton');
